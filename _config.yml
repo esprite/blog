@@ -84,7 +84,3 @@ exclude:
   - README.md
   - CNAME
 
-shortener:
-  basepath: /s/        # Path for stored redirects.
-  preserve: false      # Keep previously generated files.
-  salt:     "ctrlmoe"   # The optional salt, used when hasing the Unix time.
