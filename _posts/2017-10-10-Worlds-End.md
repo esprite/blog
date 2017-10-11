@@ -1,8 +1,7 @@
 ---
   layout:  post
-  title:   "Worlds End"
-
-  shorten: true        
+  title:   "Assuming Direct Ctrl."
+  
 ---
 
-Let it flow
+
