@@ -3,3 +3,4 @@
   title:   "Assuming Direct Ctrl"  
 ---
 
+![stareyes](stareyes.gif)
