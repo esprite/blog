@@ -5,6 +5,8 @@
   shorten: true                          # Shorten this post.
 ---
 
+{%if page.short %}Short URL: <a href="{{ page.short.url }}" target="_blank">{{ page.short.hash }}</a>{% endif %}
+
 <article class="post">
   <h1>{{ page.title }}</h1>
 
