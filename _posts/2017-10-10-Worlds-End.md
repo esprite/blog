@@ -3,4 +3,4 @@
   title:   "Assuming Direct Ctrl"  
 ---
 
-![stareyes](/images/stareyes.gif)
+![stareyes](blog/images/stareyes.gif)
