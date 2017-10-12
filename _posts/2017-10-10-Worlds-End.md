@@ -5,4 +5,4 @@
 ---
 
 
-![stareyed](/images/stareyes.gif)
+![](/images/stareyes.gif)
