@@ -4,4 +4,4 @@
   
 ---
 
-![](http://ctrl.moe/blog/images/stareyes.gif)
+![](https://ctrl.moe/blog/images/stareyes.gif)
