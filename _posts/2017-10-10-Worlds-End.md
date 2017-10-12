@@ -5,4 +5,4 @@
 ---
 
 
-![](/blog/images/stareyes.gif)
+![](ctrl.moe/blog/images/stareyes.gif)
