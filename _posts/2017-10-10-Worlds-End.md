@@ -4,4 +4,4 @@
   
 ---
 
-![](/images/stareyes.gif)
+![](/blog/images/stareyes.gif)
