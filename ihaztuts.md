@@ -1,7 +1,7 @@
   
 
 
-# Welcome to the beginning of the  **#reference_and_tuts**  channel.
+Welcome to the beginning of the eference_and_tuts  channel.
 
 ![ ](https://cdn.discordapp.com/avatars/159168346867236865/26b50ebfe477d618d0b22f49cffbe521.webp?size=128)
 
