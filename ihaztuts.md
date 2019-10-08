@@ -1,17 +1,1340 @@
-
-Esprite
-
-#0001
-
-### reference_and_tuts
-
-Search
-
   
 
-[](https://support.discordapp.com/)
 
-LOAD MORE MESSAGES
+# Welcome to the beginning of the  **#reference_and_tuts**  channel.
+
+![ ](https://cdn.discordapp.com/avatars/159168346867236865/26b50ebfe477d618d0b22f49cffbe521.webp?size=128)
+
+## Layna Lazar 🖤09/02/2018
+
+[https://twitter.com/minionsart/status/948235509825966080](https://twitter.com/minionsart/status/948235509825966080 "https://twitter.com/minionsart/status/948235509825966080")
+
+![](https://images-ext-2.discordapp.net/external/ZRCnmR3ZXLE5Mu4LQ9OdLuJaT9ZCRQ0ZV6v7bS3fKrA/https/pbs.twimg.com/profile_images/991051413747793920/NbKlBRH0_bigger.jpg)[Joyce[MinionsArt] (@minionsart)](https://twitter.com/minionsart)
+
+Using SetTextureOffset to animate a texture sheet, and track an object with eyes in #unity3d, like in Legend of Zelda - Twilight Princess #gamedev #unitytips #indiedev Sample code in first reply More stuff > [https://t.co/FqAsMb9Plg](https://t.co/FqAsMb9Plg "https://t.co/FqAsMb9Plg") [https://t.co/9ES4iBrsX1](https://t.co/9ES4iBrsX1 "https://t.co/9ES4iBrsX1")
+
+Retweets
+
+1575
+
+Likes
+
+5940
+
+![](https://images-ext-1.discordapp.net/external/9i5ffwj2X8PmJKEpgJis-aE5vybH1nnuNkzyBSznZfk/https/pbs.twimg.com/tweet_video_thumb/DSjMXWqXcAAhjtV.jpg)
+
+![](https://images-ext-1.discordapp.net/external/bXJWV2Y_F3XSra_kEqIYXAAsI3m1meckfLhYuWzxIfI/https/abs.twimg.com/icons/apple-touch-icon-192x192.png)Twitter
+
+[https://www.youtube.com/watch?v=dVO0TwVi_xM&feature=youtu.be](https://www.youtube.com/watch?v=dVO0TwVi_xM&feature=youtu.be "https://www.youtube.com/watch?v=dVO0TwVi_xM&feature=youtu.be")
+
+[YouTube](https://www.youtube.com/)
+
+[Pixologic ZBrush](https://www.youtube.com/user/ZBRUSHatPIXOLOGIC)
+
+[Sakaki Kaoru - 3Dプリント用キャラクターの作り方 - E...](https://www.youtube.com/watch?v=dVO0TwVi_xM&feature=youtu.be)
+
+![](https://images-ext-1.discordapp.net/external/PTbn4aKiq5s1SQleIqzuLgC-rX9X2HyNTZc7H5s9w1U/https/i.ytimg.com/vi/dVO0TwVi_xM/maxresdefault.jpg)
+
+[https://www.youtube.com/watch?v=JL75R0K_j7g](https://www.youtube.com/watch?v=JL75R0K_j7g "https://www.youtube.com/watch?v=JL75R0K_j7g")
+
+[YouTube](https://www.youtube.com/)
+
+[Pixologic ZBrush](https://www.youtube.com/user/ZBRUSHatPIXOLOGIC)
+
+[Pixologic ZBrush UGM - Josh Singh from Riot Games](https://www.youtube.com/watch?v=JL75R0K_j7g)
+
+![](https://images-ext-2.discordapp.net/external/NaVlZfYYUBIPheo_KbSmtquThvt8WENEtO9iI21IQJI/https/i.ytimg.com/vi/JL75R0K_j7g/maxresdefault.jpg)
+
+[https://www.youtube.com/watch?v=9ywhVkZBtq8](https://www.youtube.com/watch?v=9ywhVkZBtq8 "https://www.youtube.com/watch?v=9ywhVkZBtq8")
+
+[YouTube](https://www.youtube.com/)
+
+[Allegorithmic](https://www.youtube.com/user/Allegorithmic)
+
+[GDC 2017: Face Texturing in Substance Painter w/ Magdalena Dadela](https://www.youtube.com/watch?v=9ywhVkZBtq8)
+
+![](https://images-ext-1.discordapp.net/external/B2uXWe0Vn4H98UuxLheMVXvvPjqoZU2HfOHXcczl5lo/https/i.ytimg.com/vi/9ywhVkZBtq8/maxresdefault.jpg)
+
+[https://habr.com/company/mailru/blog/334712/](https://habr.com/company/mailru/blog/334712/ "https://habr.com/company/mailru/blog/334712/")
+
+[Разработка персонажей для игры «Алл...](https://habr.com/company/mailru/blog/334712/)
+
+Многие начинающие художники горят желанием рисовать персонажей для игр. Но зачастую энтузиазм быстро гаснет, потому что создание персонажа — это отв...
+
+[![](https://images-ext-1.discordapp.net/external/mAKAWd0LgY9IIZnNug4xgpSSg4qJDb3KR-ZKfXIWYRs/https/habrastorage.org/web/ed9/163/43d/ed916343d06d429d9f6d1fd99f9b448e.jpg?width=400&height=200)](https://habrastorage.org/web/ed9/163/43d/ed916343d06d429d9f6d1fd99f9b448e.jpg)
+
+[https://www.artstation.com/artwork/PRvdo](https://www.artstation.com/artwork/PRvdo "https://www.artstation.com/artwork/PRvdo")
+
+ArtStation
+
+[Hair Texture Diffuse & Alpha Tutorial, mike svymbersky](https://www.artstation.com/artwork/PRvdo)
+
+A mini tutorial about creating Hair textures within Zbrush. By editing our light-sources and fibermesh settings we can quickly author aesthetically pleasing Fibermesh Hair that can be converted into textures with our BPR Renderer. Once we are happy with the BPR render, we are...
+
+[![](https://images-ext-1.discordapp.net/external/W3b8QUtVm2SWA1uDSyzP3sZJlMAHvWBxrlLYw0bZH_U/%3F1513319794/https/cdna.artstation.com/p/assets/covers/images/008/527/172/large/mike-svymbersky-msvymbersky-artstation-hairtut.jpg?width=300&height=300)](https://cdna.artstation.com/p/assets/covers/images/008/527/172/large/mike-svymbersky-msvymbersky-artstation-hairtut.jpg?1513319794)
+
+Hey @everyone In this room, you can share all and any pipeline, tutorial, shaders, matcaps, brushes, etc etc here! Safe haven to refer back to without having to scroll to far through our other art share rooms. Please enjoy!
+
+![ShibeBlush](https://cdn.discordapp.com/emojis/391400921055363072.png?v=1)
+
+2
+
+----------
+
+Layna Lazar 🖤  pinned a message to this channel.  See all the pins.09/02/2018
+
+----------
+
+![ ](https://cdn.discordapp.com/avatars/135545285446205440/29fdcd7a2daa40a9edfefc8643019ad6.webp?size=128)
+
+## DreamTeam09/02/2018
+
+[https://gumroad.com/sakaki_kaoru](https://gumroad.com/sakaki_kaoru "https://gumroad.com/sakaki_kaoru")
+
+Gumroad
+
+[榊馨](https://gumroad.com/sakaki_kaoru)
+
+株式会社Wonderful Works代表・原型師 ・ZBrushマスター・個人ディーラーSAKAKI Workshopsでも活動中。弊社ではモデラー募集中です。キャラクター作りたい方是非ご連絡ください。
+
+[![](https://images-ext-1.discordapp.net/external/1Eo8sXOCXkmGK_zkzPNh8qKzi3kbdMSY_p3NVabB3Z4/https/static-2.gumroad.com/res/gumroad/profiles/ce042c2b96b602fbfa44e6d314b45d23/original/C4ZYy2tc_400x400.png?width=80&height=80)](https://gumroad.com/sakaki_kaoru)
+
+Sakaki also offers his brushes on gumroad for anyone that wants them
+
+----------
+
+![ ](https://cdn.discordapp.com/avatars/159168346867236865/26b50ebfe477d618d0b22f49cffbe521.webp?size=128)
+
+## Layna Lazar 🖤09/02/2018
+
+
+
+----------
+
+![ ](https://cdn.discordapp.com/avatars/135545285446205440/29fdcd7a2daa40a9edfefc8643019ad6.webp?size=128)
+
+## DreamTeam09/02/2018
+
+Also comes with his base meshes
+
+----------
+
+![ ](https://cdn.discordapp.com/avatars/185135266963390464/48638c3367236efa748832cf1e797961.webp?size=128)
+
+## SanguineJackal09/02/2018
+
+Ohhh my gosh thank you
+
+----------
+
+![ ](https://cdn.discordapp.com/avatars/228346929627529216/5c9c73355a629b3cea1200e97976e9f2.webp?size=128)
+
+## CasvalRel09/02/2018
+
+oh my goodness YES
+
+----------
+
+September 9, 2018
+
+![ ](https://cdn.discordapp.com/avatars/96845961195687936/d1920bc120531d5795dcccd3c7b371a0.webp?size=128)
+
+## Floreum09/09/2018
+
+NOW I can post this weeks FREEBIES!! [https://cubebrush.co/fredogm/products/mgs1tw?utm_content=buffer75970&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer](https://cubebrush.co/fredogm/products/mgs1tw?utm_content=buffer75970&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer "https://cubebrush.co/fredogm/products/mgs1tw?utm_content=buffer75970&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer")(edited)
+
+Cubebrush
+
+[Zbrush Alpha Pack-Plaster & Concrete(Free Sample) on Cubebrush.co](https://cubebrush.co/fredogm/products/mgs1tw?utm_content=buffer75970&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)
+
+Plaster/Concrete Brush and alpha set for Zbrush, 4 brushes and height/alpha maps, all 2048x2048. Artstation Profile https://www.artstation.com/artist/fredo...
+
+[![](https://images-ext-1.discordapp.net/external/XLIUMW4BOG39D49L8Lw3PofLobNx2wUPzXoDxdZlclU/https/d27nqrvkk22y65.cloudfront.net/cover/image/15658/big_c116480f0f.jpg?width=400&height=226)](https://d27nqrvkk22y65.cloudfront.net/cover/image/15658/big_c116480f0f.jpg)
+
+
+
+1
+
+[https://www.instagram.com/p/BkvY__UnIqR/?utm_source=ig_share_sheet&igshid=3e6crzm9hdtz](https://www.instagram.com/p/BkvY__UnIqR/?utm_source=ig_share_sheet&igshid=3e6crzm9hdtz "https://www.instagram.com/p/BkvY__UnIqR/?utm_source=ig_share_sheet&igshid=3e6crzm9hdtz")
+
+Instagram
+
+[Donna on Instagram: “In loving memory of the best name i've ever...](https://www.instagram.com/p/BkvY__UnIqR/?utm_source=ig_share_sheet&igshid=3e6crzm9hdtz)
+
+[](https://scontent-sin6-1.cdninstagram.com/vp/90c0452edef108c95df17cdc3254dbb7/5C38D960/t51.2885-15/e35/36136117_2068726190114057_6262840054540926976_n.jpg)
+
+
+4
+
+
+
+1
+
+----------
+
+![ ](https://cdn.discordapp.com/avatars/165014944482459648/768a0d2bb6c7d10461d6b778fb0fb1b3.webp?size=128)
+
+## NB-DanTE09/09/2018
+
+[https://www.youtube.com/watch?v=xQBC6ryi9gQ](https://www.youtube.com/watch?v=xQBC6ryi9gQ "https://www.youtube.com/watch?v=xQBC6ryi9gQ")
+
+[YouTube](https://www.youtube.com/)
+
+[Chao Dong](https://www.youtube.com/user/molvcn)
+
+[网络班4期案例流程online class 4 workflow quick demo](https://www.youtube.com/watch?v=xQBC6ryi9gQ)
+
+![](https://images-ext-1.discordapp.net/external/NJhmr8InxwsYYH4GORJumhBpPwcWAnReeIEao-kX8as/https/i.ytimg.com/vi/xQBC6ryi9gQ/maxresdefault.jpg)
+
+![omgyas](https://cdn.discordapp.com/emojis/391398454578118656.png?v=1)
+
+1
+
+----------
+
+![ ](https://cdn.discordapp.com/avatars/96845961195687936/d1920bc120531d5795dcccd3c7b371a0.webp?size=128)
+
+## Floreum09/09/2018
+
+Also if you wanna get into Unity game dev, Humble Bundle has a sale for 8 more days. [https://www.humblebundle.com/games/unity-bundle](https://www.humblebundle.com/games/unity-bundle "https://www.humblebundle.com/games/unity-bundle")
+
+Humble Bundle
+
+[Humble Unity Bundle](https://www.humblebundle.com/games/unity-bundle)
+
+Pay what you want for awesome games and game-making resources, and support charity too!
+
+[![](https://images-ext-2.discordapp.net/external/SL34R1v-Xy6eT1TeBTmgREQeqy7tYn_V2oU91_H3fAc/%3Fauto%3Dcompress%26h%3D630%26w%3D1200%26s%3Dcbf0fd2ac8c436640042961a56e3ecdb/https/humblebundle.imgix.net/misc/files/hashed/4168344926821b1728e97f291add4d8cc9aecab6.png?width=400&height=210)](https://humblebundle.imgix.net/misc/files/hashed/4168344926821b1728e97f291add4d8cc9aecab6.png?auto=compress&h=630&w=1200&s=cbf0fd2ac8c436640042961a56e3ecdb)
+
+----------
+
+![ ](https://cdn.discordapp.com/avatars/101284422631854080/03398c8265d16e3ee826e7f4ed41050c.webp?size=128)
+
+## TheDeterminedArtist(Gaku)09/09/2018
+
+Creating a Killer Portfolio by the guys of FlippedNormals! [https://youtu.be/HAC468bvNeI](https://youtu.be/HAC468bvNeI "https://youtu.be/HAC468bvNeI")
+
+[YouTube](https://www.youtube.com/)
+
+[FlippedNormals](https://www.youtube.com/user/FlippedNormalsTuts)
+
+[Creating a Killer Portfolio](https://youtu.be/HAC468bvNeI)
+
+![](https://images-ext-2.discordapp.net/external/z51TS4KY5hwEu1YZkKFo9yAva6bqrP5pYR8jYvNHQ74/https/i.ytimg.com/vi/HAC468bvNeI/maxresdefault.jpg)
+
+![pantsusparkle](https://cdn.discordapp.com/emojis/429887432368979998.png?v=1)
+
+1
+
+How to Sculpt Eyes in Zbrush [https://youtu.be/92yBYbccLmY](https://youtu.be/92yBYbccLmY "https://youtu.be/92yBYbccLmY")
+
+[YouTube](https://www.youtube.com/)
+
+[FlippedNormals](https://www.youtube.com/user/FlippedNormalsTuts)
+
+[How to Sculpt Eyes in ZBrush](https://youtu.be/92yBYbccLmY)
+
+![](https://images-ext-1.discordapp.net/external/y3DQ1Wr__qAxaU_fhK0kTQwsA9HTj_HXdEJ_jRZSxvM/https/i.ytimg.com/vi/92yBYbccLmY/maxresdefault.jpg)
+
+----------
+
+September 11, 2018
+
+![ ](https://cdn.discordapp.com/avatars/232643635563331590/07b811abae7826959526b25904bf3ae3.webp?size=128)
+
+## Cybuster09/11/2018
+
+How To Make Resin Copies of 3D-Printed Figures [https://youtu.be/J1jDaZX6PCk](https://youtu.be/J1jDaZX6PCk "https://youtu.be/J1jDaZX6PCk")
+
+[YouTube](https://www.youtube.com/)
+
+[Tested](https://www.youtube.com/user/testedcom)
+
+[How To Make Resin Copies of 3D-Printed Figures](https://youtu.be/J1jDaZX6PCk)
+
+![](https://images-ext-2.discordapp.net/external/pnEi3UJ5zoLGuJ0epOoKmMXxwNBgUzMj-BrS_voJhzw/https/i.ytimg.com/vi/J1jDaZX6PCk/maxresdefault.jpg)
+
+![beans](https://cdn.discordapp.com/emojis/316368148246822913.png?v=1)
+
+1
+
+[Blender] How to make Inner line like GGXrd models: [https://youtu.be/HWeRsxSj3VA](https://youtu.be/HWeRsxSj3VA "https://youtu.be/HWeRsxSj3VA")
+
+[YouTube](https://www.youtube.com/)
+
+[Atsushi Tamaki](https://www.youtube.com/channel/UCX54i2YxfeDpEvKrN7XO5dw)
+
+[[Blender] How to make Inner line](https://youtu.be/HWeRsxSj3VA)
+
+![](https://images-ext-2.discordapp.net/external/hBlk5delKCsZXLAo6r7z-JASGezCQSZfbW96_0GVyLk/https/i.ytimg.com/vi/HWeRsxSj3VA/maxresdefault.jpg)
+
+![beans](https://cdn.discordapp.com/emojis/316368148246822913.png?v=1)
+
+2
+
+----------
+
+September 12, 2018
+
+![ ](https://cdn.discordapp.com/avatars/434389589902360586/8e43124c3f8ea070a2419d7078adb2e2.webp?size=128)
+
+## il-ya09/12/2018
+
+[https://youtu.be/8DPFrR2wt6s](https://youtu.be/8DPFrR2wt6s "https://youtu.be/8DPFrR2wt6s") [https://www.artstation.com/artwork/va3VO](https://www.artstation.com/artwork/va3VO "https://www.artstation.com/artwork/va3VO") [https://www.artstation.com/artwork/oa0xW](https://www.artstation.com/artwork/oa0xW "https://www.artstation.com/artwork/oa0xW") [https://vimeo.com/238088317](https://vimeo.com/238088317 "https://vimeo.com/238088317") [https://www.artstation.com/artwork/5JvbW](https://www.artstation.com/artwork/5JvbW "https://www.artstation.com/artwork/5JvbW")
+
+[YouTube](https://www.youtube.com/)
+
+[Madina Chionidi](https://www.youtube.com/channel/UChtajooxTcVLDsX1ilYV1og)
+
+[Marvelous Designer 7: Making a Biker Style Jacket](https://youtu.be/8DPFrR2wt6s)
+
+![](https://images-ext-2.discordapp.net/external/YeY9Peh4GTvmgpWje8Ihs9tEQ1xAZDjbIvhBt7nEtLk/https/i.ytimg.com/vi/8DPFrR2wt6s/maxresdefault.jpg)
+
+ArtStation
+
+[Fawkes - breakdown, Ognyan Zahariev](https://www.artstation.com/artwork/va3VO)
+
+A short breakdown of my Fawkes project.
+
+[![](https://images-ext-2.discordapp.net/external/CtBDmg07gTTBcW_BALDr7t08NhTp470ZXiY8XNdNsbE/%3F1532547432/https/cdnb.artstation.com/p/assets/covers/images/012/009/273/large/ognyan-zahariev-thumbnail-01.jpg?width=300&height=300)](https://cdnb.artstation.com/p/assets/covers/images/012/009/273/large/ognyan-zahariev-thumbnail-01.jpg?1532547432)
+
+ArtStation
+
+[Workflow: Custom Fold with Marvelous Designer to Zbrush VDM Brush,...](https://www.artstation.com/artwork/oa0xW)
+
+Here I share my workflow I developed during my free time at home while working on my personal character model. You basically create a custom cloth fold in Marvelous Designer 6.5 then bring it to Zbrush R8 to convert it to VDM Brush. I hope this workflow will help some people ...
+
+[![](https://images-ext-1.discordapp.net/external/k_DDUt2QDBef8xnpzDJ7vTfy1eiS2QG59dRk7ZFEBwU/%3F1532005487/https/cdnb.artstation.com/p/assets/covers/images/011/901/547/large/md-ridhwan-borha-workflowthumbnail.jpg?width=300&height=300)](https://cdnb.artstation.com/p/assets/covers/images/011/901/547/large/md-ridhwan-borha-workflowthumbnail.jpg?1532005487)
+
+ArtStation
+
+[Modeling tricks, Olivier Couston](https://www.artstation.com/artwork/5JvbW)
+
+Just some of my modeling workflow. Nothing ground breaking, but it can be interesting to some. In most cases I would hit the 'G' key when I do the same operation multiple times, but since you can't see my keyboard, here I repeated them manually just so you can see what I do e...
+
+[![](https://images-ext-1.discordapp.net/external/9NuJ-JH5RWHOn1c-wVIKdfj04s3l0e1c0ALJZDK5RyI/%3F1526856309/https/cdnb.artstation.com/p/assets/covers/images/010/903/011/large/olivier-couston-tips.jpg?width=300&height=300)](https://cdnb.artstation.com/p/assets/covers/images/010/903/011/large/olivier-couston-tips.jpg?1526856309)
+
+----------
+
+![ ](https://cdn.discordapp.com/avatars/102766144615616512/f094ddc92c57fce27fe6f7a2d78dd9d6.webp?size=128)
+
+## doomflex09/12/2018
+
+[https://twitter.com/KrisZadziuk/status/1039858710460473344](https://twitter.com/KrisZadziuk/status/1039858710460473344 "https://twitter.com/KrisZadziuk/status/1039858710460473344")
+
+![](https://images-ext-1.discordapp.net/external/C3XfgVP7oPmDnuLrYlBeT-v7n2OgHB4LPn6yxgNyHJw/https/pbs.twimg.com/profile_images/711767595289088001/RUXHwyrj_bigger.jpg)[Kristjan Zadziuk (@KrisZadziuk)](https://twitter.com/KrisZadziuk)
+
+Reminder that even games as polished as #SpiderManPS4 looked rough early on... Their "rough" just looks a better than most. You can see how the team used simple poses and blends to nail that swinging feeling, the gorgeous #animation just enhanced that feeling after. #game...
+
+Retweets
+
+522
+
+Likes
+
+1817
+
+![](https://images-ext-2.discordapp.net/external/V7wQlESOYdkvrGrHvNYYiSVPHdJG7IJ6BjuEigS_vLg/https/pbs.twimg.com/ext_tw_video_thumb/1039858291764027392/pu/img/1rL29bS1ghgPvGvs.jpg)
+
+![](https://images-ext-1.discordapp.net/external/bXJWV2Y_F3XSra_kEqIYXAAsI3m1meckfLhYuWzxIfI/https/abs.twimg.com/icons/apple-touch-icon-192x192.png)Twitter
+
+----------
+
+September 13, 2018
+
+![ ](https://cdn.discordapp.com/avatars/101284422631854080/03398c8265d16e3ee826e7f4ed41050c.webp?size=128)
+
+## TheDeterminedArtist(Gaku)09/13/2018
+
+[https://cubebrush.co/mb/products/kxo6xg](https://cubebrush.co/mb/products/kxo6xg "https://cubebrush.co/mb/products/kxo6xg")
+
+Cubebrush
+
+[ULTIMATE Anatomy on Cubebrush.co](https://cubebrush.co/mb/products/kxo6xg)
+
+This is the Ultimate Guide to drawing the human anatomy! - ✅ 10+ hours of in-depth content - ✅ Great for artists of any level - ✅ Covers the entire body fro...
+
+[![](https://images-ext-2.discordapp.net/external/bFz9pSy5sG76Z9py6AdC7CIHGhL0iVDe-N2hAlu2i6A/https/d27nqrvkk22y65.cloudfront.net/cover/image/42500/big_c09c0d74bf.jpg?width=400&height=226)](https://d27nqrvkk22y65.cloudfront.net/cover/image/42500/big_c09c0d74bf.jpg)
+
+----------
+
+![ ](https://cdn.discordapp.com/avatars/96845961195687936/d1920bc120531d5795dcccd3c7b371a0.webp?size=128)
+
+## Floreum09/13/2018
+
+[http://blog.fernhw.com/post/177531439731/following-the-eye](http://blog.fernhw.com/post/177531439731/following-the-eye "http://blog.fernhw.com/post/177531439731/following-the-eye") for the indie game devs, this will make you think about cameras differently
+
+[Tumblr](http://www.tumblr.com/)
+
+[Fern HW](http://blog.fernhw.com/)
+
+[Following The Eye](http://blog.fernhw.com/post/177531439731/following-the-eye)
+
+Eye-Trace For GamesWhen the camera in a game is done well everything feels just right, everything just flows. It’s the reason why Journey, why Inside, why Mario Kart 8, and just about every Nintendo...
+
+[![](https://images-ext-2.discordapp.net/external/K1T0OYIggUYD5mbTH98gOgVKWmht50AT-Ng5dxEzlP8/https/78.media.tumblr.com/5daf6529ba45a9681c754a613f8b2242/tumblr_inline_pe3w2oLXg11qgdjip_540.gif?width=80&height=45)](http://blog.fernhw.com/post/177531439731/following-the-eye)
+
+----------
+
+September 14, 2018
+
+![ ](https://cdn.discordapp.com/avatars/96845961195687936/d1920bc120531d5795dcccd3c7b371a0.webp?size=128)
+
+## Floreum09/14/2018
+
+[https://youtu.be/DfoVhtqoiGk](https://youtu.be/DfoVhtqoiGk "https://youtu.be/DfoVhtqoiGk")
+
+[YouTube](https://www.youtube.com/)
+
+[WataruCG](https://www.youtube.com/channel/UC6wD5gp0Hg0HiKWq7MgP0aA)
+
+[EnoguToon for Maya demo](https://youtu.be/DfoVhtqoiGk)
+
+![](https://images-ext-1.discordapp.net/external/B9n0OidAPKBfPw6Qh_IEl1yl5M-Lwgbem_S3RmD0-XQ/https/i.ytimg.com/vi/DfoVhtqoiGk/hqdefault.jpg)
+
+![beans](https://cdn.discordapp.com/emojis/316368148246822913.png?v=1)
+
+2
+
+----------
+
+September 15, 2018
+
+![ ](https://cdn.discordapp.com/avatars/142478980480630785/81731f6ab48b78d3d3f5b56311e95017.webp?size=128)
+
+## Geo09/15/2018
+
+As a followup to Floreum's post: [https://www.youtube.com/watch?v=C7307qRmlMI](https://www.youtube.com/watch?v=C7307qRmlMI "https://www.youtube.com/watch?v=C7307qRmlMI")
+
+[YouTube](https://www.youtube.com/)
+
+[GDC](https://www.youtube.com/channel/UC0JB7TSe49lg56u6qH8y_MQ)
+
+[50 Game Camera Mistakes](https://www.youtube.com/watch?v=C7307qRmlMI)
+
+![](https://images-ext-2.discordapp.net/external/0NnUcPSmPniP4hlqIC1hu9D-_xX3KqK80L7hCDsS48A/https/i.ytimg.com/vi/C7307qRmlMI/maxresdefault.jpg)
+
+----------
+
+September 16, 2018
+
+![ ](https://cdn.discordapp.com/avatars/486847270587990026/5a99f0ea36edf0e19504e1a6637e47dd.webp?size=128)
+
+## sternsafari09/16/2018
+
+[https://youtu.be/Ugail2npSyg](https://youtu.be/Ugail2npSyg "https://youtu.be/Ugail2npSyg") This is donnaxyz‘s timelapse on the realistic female body
+
+[YouTube](https://www.youtube.com/)
+
+[Donna XYZ](https://www.youtube.com/user/mjau4i)
+
+[Female Anatomy ZBrush timelapse](https://youtu.be/Ugail2npSyg)
+
+![](https://images-ext-1.discordapp.net/external/8uIQbta7sG5jT2tRNli1TTxRpxYcijlqYcyy6Iz4d9A/https/i.ytimg.com/vi/Ugail2npSyg/maxresdefault.jpg)
+
+This is from donnaxyz‘s artstation account. Looks very helpful! :)
+
+[![](https://media.discordapp.net/attachments/486054132449542156/491156877464305678/image5.jpg?width=400&height=227)](https://cdn.discordapp.com/attachments/486054132449542156/491156877464305678/image5.jpg)[![](https://media.discordapp.net/attachments/486054132449542156/491156877464305680/image4.jpg?width=400&height=227)](https://cdn.discordapp.com/attachments/486054132449542156/491156877464305680/image4.jpg)[![](https://media.discordapp.net/attachments/486054132449542156/491156878081130499/image6.jpg?width=400&height=227)](https://cdn.discordapp.com/attachments/486054132449542156/491156878081130499/image6.jpg)[![](https://media.discordapp.net/attachments/486054132449542156/491156878525595658/image0.jpg?width=400&height=180)](https://cdn.discordapp.com/attachments/486054132449542156/491156878525595658/image0.jpg)[![](https://media.discordapp.net/attachments/486054132449542156/491156879024586754/image2.jpg?width=400&height=267)](https://cdn.discordapp.com/attachments/486054132449542156/491156879024586754/image2.jpg)[![](https://media.discordapp.net/attachments/486054132449542156/491156879024586755/image1.jpg?width=400&height=159)](https://cdn.discordapp.com/attachments/486054132449542156/491156879024586755/image1.jpg)[![](https://media.discordapp.net/attachments/486054132449542156/491156879482028044/image3.jpg?width=400&height=227)](https://cdn.discordapp.com/attachments/486054132449542156/491156879482028044/image3.jpg)
+
+----------
+
+![ ](https://cdn.discordapp.com/avatars/209602193689542657/c0ec87316a58b1d2c728e2f4e2146228.webp?size=128)
+
+## life_sythenizer09/16/2018
+
+Optiminzing garments from Marvelous > Maya > Zbrush [https://www.artstation.com/artwork/zZOOL](https://www.artstation.com/artwork/zZOOL "https://www.artstation.com/artwork/zZOOL")
+
+ArtStation
+
+[How to export from Marvelous Designer (like a boss), Olivier Couston](https://www.artstation.com/artwork/zZOOL)
+
+People asked about my workflow on Cammy's clothes, so here it is. You can find the next part about extracting displacement maps here : https://www.artstation.com/artwork/alB49 You can purchase the Marvelous Designer template and the full character model here : https://www.ar...
+
+[![](https://images-ext-2.discordapp.net/external/5uk2YiUPAfSRwm9okVEXsmLyJbEDFfEFRtZqRqdwTIM/%3F1523254744/https/cdnb.artstation.com/p/assets/covers/images/010/220/437/large/olivier-couston-marvelous.jpg?width=300&height=300)](https://cdnb.artstation.com/p/assets/covers/images/010/220/437/large/olivier-couston-marvelous.jpg?1523254744)
+
+![beans](https://cdn.discordapp.com/emojis/316368148246822913.png?v=1)
+
+2
+
+----------
+
+September 27, 2018
+
+![ ](https://cdn.discordapp.com/avatars/232643635563331590/07b811abae7826959526b25904bf3ae3.webp?size=128)
+
+## Cybuster09/27/2018
+
+[https://www.youtube.com/watch?v=y4JAj5--c5E](https://www.youtube.com/watch?v=y4JAj5--c5E "https://www.youtube.com/watch?v=y4JAj5--c5E")
+
+[YouTube](https://www.youtube.com/)
+
+[QuirkyCubes](https://www.youtube.com/user/QuirkyCubes)
+
+[Tutorial: Moldmaking, Clay Bases, Adjoined Molds](https://www.youtube.com/watch?v=y4JAj5--c5E)
+
+![](https://images-ext-1.discordapp.net/external/Nm37GGSSTnuYZTd7uB6QNAlLtF1ihNuY7ieLN00k4yM/https/i.ytimg.com/vi/y4JAj5--c5E/hqdefault.jpg)
+
+----------
+
+September 28, 2018
+
+![ ](https://cdn.discordapp.com/avatars/101284422631854080/03398c8265d16e3ee826e7f4ed41050c.webp?size=128)
+
+## TheDeterminedArtist(Gaku)09/28/2018
+
+[https://youtu.be/TLwPL9gQikg](https://youtu.be/TLwPL9gQikg "https://youtu.be/TLwPL9gQikg")
+
+[YouTube](https://www.youtube.com/)
+
+[Brushboost](https://www.youtube.com/user/bluefley00)
+
+[ART School - BIG NEWS](https://youtu.be/TLwPL9gQikg)
+
+![](https://images-ext-1.discordapp.net/external/vMFnI2-IjwGO8z3BEEzvc2Myt9kBYLsRpVnbiNlAV3w/https/i.ytimg.com/vi/TLwPL9gQikg/maxresdefault.jpg)
+
+----------
+
+September 29, 2018
+
+![ ](https://cdn.discordapp.com/avatars/165014944482459648/768a0d2bb6c7d10461d6b778fb0fb1b3.webp?size=128)
+
+## NB-DanTE09/29/2018
+
+[https://gumroad.com/l/YMwlD](https://gumroad.com/l/YMwlD "https://gumroad.com/l/YMwlD")
+
+Gumroad
+
+[SK_Pack(Z4R8)_v1](https://gumroad.com/l/YMwlD)
+
+ZBrush custum brush
+
+[![](https://images-ext-1.discordapp.net/external/nQKuCXHC8K6PvNMquJqMU5PbtQI35E5V6Eg-C9LyBA0/https/static-2.gumroad.com/res/gumroad/2436464517044/asset_previews/d98a3dcadcd2f5641504eefe375819d6/retina/icon.png?width=80&height=78)](https://gumroad.com/l/YMwlD)
+
+----------
+
+October 2, 2018
+
+![ ](https://cdn.discordapp.com/avatars/209602193689542657/c0ec87316a58b1d2c728e2f4e2146228.webp?size=128)
+
+## life_sythenizer10/02/2018
+
+[https://www.artstation.com/artwork/yb0Jwn](https://www.artstation.com/artwork/yb0Jwn "https://www.artstation.com/artwork/yb0Jwn")
+
+ArtStation
+
+[Couture for Maya , Florian Croquet](https://www.artstation.com/artwork/yb0Jwn)
+
+https://gum.co/rVWY This is Couture for Maya, I had this script on my shelf for months, but now it's ready for a release !!! Couture is a simple script that ease the clothes retopology workflow. Couture will take care of all the redundant tasks (create blendshapes, wraps,...
+
+[![](https://images-ext-1.discordapp.net/external/E0S8e0G3WIhb1jGbpEXRRenRs1aQNhHue9c8cNqtiE0/%3F1538458945/https/cdnb.artstation.com/p/assets/covers/images/013/184/615/large/florian-croquet-marketing2.jpg?width=297&height=300)](https://cdnb.artstation.com/p/assets/covers/images/013/184/615/large/florian-croquet-marketing2.jpg?1538458945)
+
+----------
+
+October 5, 2018
+
+![ ](https://cdn.discordapp.com/avatars/121975659970035712/3268fb1032f8e4cd0ff8755e6f65a48e.webp?size=128)
+
+## gibbon300010/05/2018
+
+[https://www.youtube.com/watch?v=7tAcZsMhxM0](https://www.youtube.com/watch?v=7tAcZsMhxM0 "https://www.youtube.com/watch?v=7tAcZsMhxM0")
+
+[YouTube](https://www.youtube.com/)
+
+[SupremeFunk](https://www.youtube.com/user/SupremeFunk)
+
+[Ethereal Girl sculpt](https://www.youtube.com/watch?v=7tAcZsMhxM0)
+
+![](https://images-ext-1.discordapp.net/external/J4i5uqD5AKs7-sPzjdVWswikaqKyf9uXFMAx1XcOKug/https/i.ytimg.com/vi/7tAcZsMhxM0/hqdefault.jpg)
+
+![beans](https://cdn.discordapp.com/emojis/316368148246822913.png?v=1)
+
+3
+
+----------
+
+October 6, 2018
+
+![ ](https://cdn.discordapp.com/avatars/96845961195687936/d1920bc120531d5795dcccd3c7b371a0.webp?size=128)
+
+## Floreum10/06/2018
+
+[https://youtu.be/guHMAbI7mUI](https://youtu.be/guHMAbI7mUI "https://youtu.be/guHMAbI7mUI")
+
+[YouTube](https://www.youtube.com/)
+
+[3dEx](https://www.youtube.com/user/irvin390)
+
+[Substance Designer - Stylized Ice Material](https://youtu.be/guHMAbI7mUI)
+
+![](https://images-ext-1.discordapp.net/external/OHu-XV_47teLQJzJ6lXaBXSDaSulBxCPesAsxy9_wqM/https/i.ytimg.com/vi/guHMAbI7mUI/maxresdefault.jpg)
+
+
+
+1
+
+----------
+
+October 7, 2018
+
+![ ](https://cdn.discordapp.com/avatars/96845961195687936/d1920bc120531d5795dcccd3c7b371a0.webp?size=128)
+
+## Floreum10/07/2018
+
+[https://youtu.be/H08RNC0rB3U](https://youtu.be/H08RNC0rB3U "https://youtu.be/H08RNC0rB3U")
+
+[YouTube](https://www.youtube.com/)
+
+[Nathan Glemboski](https://www.youtube.com/user/nglemb)
+
+[Animating a FORNITE Dance From Scratch](https://youtu.be/H08RNC0rB3U)
+
+![](https://images-ext-1.discordapp.net/external/shp1mJVcGsvJ0KU6JhLgj1vWMaInI60i3HK9gLp55Ik/https/i.ytimg.com/vi/H08RNC0rB3U/maxresdefault.jpg)
+
+----------
+
+October 12, 2018
+
+![ ](https://cdn.discordapp.com/avatars/165014944482459648/768a0d2bb6c7d10461d6b778fb0fb1b3.webp?size=128)
+
+## NB-DanTE10/12/2018
+
+[https://www.artstation.com/ybourykina/blog/GQ7Y/handpainted-processes](https://www.artstation.com/ybourykina/blog/GQ7Y/handpainted-processes "https://www.artstation.com/ybourykina/blog/GQ7Y/handpainted-processes")
+
+ArtStation
+
+[handpainted processes by Yekaterina Bourykina](https://www.artstation.com/ybourykina/blog/GQ7Y/handpainted-processes)
+
+[](https://www.artstation.com/ybourykina/blog/GQ7Y/handpainted-processes)
+
+----------
+
+![ ](https://cdn.discordapp.com/avatars/96845961195687936/d1920bc120531d5795dcccd3c7b371a0.webp?size=128)
+
+## Floreum10/12/2018
+
+[https://youtu.be/Uif0QnoHjAg](https://youtu.be/Uif0QnoHjAg "https://youtu.be/Uif0QnoHjAg")
+
+[YouTube](https://www.youtube.com/)
+
+[Ryan Kittleson](https://www.youtube.com/user/squirc)
+
+[Ryan's Tools: Free Zbrush Plugin](https://youtu.be/Uif0QnoHjAg)
+
+![](https://images-ext-2.discordapp.net/external/OO15Cpc7_agKUOOp8hPDEoudo9K1lf1eHOU-Lseb8g4/https/i.ytimg.com/vi/Uif0QnoHjAg/maxresdefault.jpg)
+
+![omgyas](https://cdn.discordapp.com/emojis/391398454578118656.png?v=1)
+
+1
+
+----------
+
+October 16, 2018
+
+![ ](https://cdn.discordapp.com/avatars/165014944482459648/768a0d2bb6c7d10461d6b778fb0fb1b3.webp?size=128)
+
+## NB-DanTE10/16/2018
+
+[https://www.youtube.com/watch?v=u2EY4Lr5TXw](https://www.youtube.com/watch?v=u2EY4Lr5TXw "https://www.youtube.com/watch?v=u2EY4Lr5TXw")
+
+[YouTube](https://www.youtube.com/)
+
+[Danny Mac 3D](https://www.youtube.com/user/djmccabie)
+
+[Why I Ditched ZBRUSH for BLENDER for HAIR](https://www.youtube.com/watch?v=u2EY4Lr5TXw)
+
+![](https://images-ext-1.discordapp.net/external/kX3jJPWvx6O24WCnPmW_ZDHzcw7mLs8ByliMHoKO2Ns/https/i.ytimg.com/vi/u2EY4Lr5TXw/maxresdefault.jpg)
+
+----------
+
+October 18, 2018
+
+![ ](https://cdn.discordapp.com/avatars/96845961195687936/d1920bc120531d5795dcccd3c7b371a0.webp?size=128)
+
+## Floreum10/18/2018
+
+[https://youtu.be/8DJ96YyQ-vo?list=WL](https://youtu.be/8DJ96YyQ-vo?list=WL "https://youtu.be/8DJ96YyQ-vo?list=WL")
+
+[YouTube](https://www.youtube.com/)
+
+[FlippedNormals](https://www.youtube.com/user/FlippedNormalsTuts)
+
+[How to Improve Your Creature Sculpt in ZBrush - BFX](https://youtu.be/8DJ96YyQ-vo?list=WL)
+
+![](https://images-ext-2.discordapp.net/external/Uv51KhpTiACRgukFk-JswAdI7h-qjZaRkiLpLMinDC4/https/i.ytimg.com/vi/8DJ96YyQ-vo/maxresdefault.jpg)
+
+----------
+
+![ ](https://cdn.discordapp.com/avatars/196976814034255872/6ba751e67585a72ba31b0de66da7549c.webp?size=128)
+
+## Draegar_TheMad10/18/2018
+
+ooooo
+
+----------
+
+October 19, 2018
+
+![ ](https://cdn.discordapp.com/avatars/165014944482459648/768a0d2bb6c7d10461d6b778fb0fb1b3.webp?size=128)
+
+## NB-DanTE10/19/2018
+
+[https://www.artstation.com/artwork/L22Z3P](https://www.artstation.com/artwork/L22Z3P "https://www.artstation.com/artwork/L22Z3P")
+
+ArtStation
+
+[-SORCERESS- BREAKDOWN, Emmanuel Lecouturier](https://www.artstation.com/artwork/L22Z3P)
+
+I had the chance to do this breakdown of the creation process of the sorceress https://www.artstation.com/artwork/l3NL5, for Marmoset. You can find the full article here: https://marmoset.co/posts/presentation-lighting-and-hair-creation-for-a-sorceress-character/ I mainly ta...
+
+[![](https://images-ext-2.discordapp.net/external/QjsGPsCyZ6axcj3GypK9sJyY7TjT1FWG0iplt3rQp78/%3F1539899299/https/cdnb.artstation.com/p/assets/covers/images/013/507/171/large/emmanuel-lecouturier-thumb-breakdown.jpg?width=300&height=300)](https://cdnb.artstation.com/p/assets/covers/images/013/507/171/large/emmanuel-lecouturier-thumb-breakdown.jpg?1539899299)
+
+----------
+
+October 20, 2018
+
+![ ](https://cdn.discordapp.com/avatars/96845961195687936/d1920bc120531d5795dcccd3c7b371a0.webp?size=128)
+
+## Floreum10/20/2018
+
+[https://gumroad.com/l/pxcg?recommended_by=Cepma](https://gumroad.com/l/pxcg?recommended_by=Cepma "https://gumroad.com/l/pxcg?recommended_by=Cepma")
+
+Gumroad
+
+[Colour Constructor](https://gumroad.com/l/pxcg?recommended_by=Cepma)
+
+Have you ever wanted a way to work out what shadow and lit colours you are supposed to use in your painting? Colour Constructor is a study and workflow tool that is designed to help you design the colours and values for a painting or image you are making according to a light ...
+
+[![](https://images-ext-1.discordapp.net/external/z9C99pot4Nt2szOE0bdxuOmVghPgajcld9D8b2rV-tU/https/static-2.gumroad.com/res/gumroad/3313996561044/asset_previews/3f23fd74c63216e8986f1113b3043d84/retina/newmarketing_02.jpg?width=54&height=80)](https://gumroad.com/l/pxcg?recommended_by=Cepma)
+
+----------
+
+October 22, 2018
+
+![ ](https://cdn.discordapp.com/avatars/232643635563331590/07b811abae7826959526b25904bf3ae3.webp?size=128)
+
+## Cybuster10/22/2018
+
+amazing hair tutorial: [https://www.artstation.com/artwork/02anK](https://www.artstation.com/artwork/02anK "https://www.artstation.com/artwork/02anK")
+
+ArtStation
+
+[Realtime Hair Example, adam skutt](https://www.artstation.com/artwork/02anK)
+
+https://gum.co/pDpQi UPDATE: Video tutorial added! This is an example of a realtime hair asset. I've released the marmoset file, textures, material and lighting scene for people to dissect. I've also included an FBX file that contains the original hair grouping so anyone in...
+
+[![](https://images-ext-1.discordapp.net/external/sABSyCDda9FWVr23nAFlTyabXsGRIDWExH23DOJKbv0/%3F1495917919/https/cdnb.artstation.com/p/assets/covers/images/006/082/383/large/adam-skutt-thumb.jpg?width=300&height=300)](https://cdnb.artstation.com/p/assets/covers/images/006/082/383/large/adam-skutt-thumb.jpg?1495917919)
+
+----------
+
+![ ](https://cdn.discordapp.com/avatars/317070168469536778/0c2832a9ba30af57845e4a3d8bf23dd8.webp?size=128)
+
+## JP McCarthy10/22/2018
+
+Paintable.ccc has some great free tutorials on digital painting via their YouTube channel. A paid monthly plan is also available that provides assignments, resources, tutorials and assessments. [https://paintable.cc/](https://paintable.cc/ "https://paintable.cc/")
+
+[Paintable](https://paintable.cc/)
+
+[David Belliveau](https://paintable.cc/author/david)
+
+[Paintable – Learn The Art of Digital Painting!](https://paintable.cc/)
+
+Learn The Art of Digital Painting! Join our community and get our weekly free tutorials: Become a Better Digital Painter! Join the FREE Paintable community newsletter, and get instant access to our digital painting tutorials, resources, blog posts, upd...
+
+----------
+
+October 23, 2018
+
+![ ](https://cdn.discordapp.com/avatars/96845961195687936/d1920bc120531d5795dcccd3c7b371a0.webp?size=128)
+
+## Floreum10/23/2018
+
+[https://twitter.com/sakuramochiJP/status/1054771569661173761](https://twitter.com/sakuramochiJP/status/1054771569661173761 "https://twitter.com/sakuramochiJP/status/1054771569661173761")
+
+![](https://images-ext-2.discordapp.net/external/iSGE4LhvWuuyJDds9L5kWmHic5Qgeh3kIW5SBQhGQoo/https/pbs.twimg.com/profile_images/497354088716050432/uJr-X3id_bigger.png)[さくらもち (@sakuramochiJP)](https://twitter.com/sakuramochiJP)
+
+ハーネス込み上半身セットアップ試作第２弾くらい、初回よりは大分骨が減ったぞ。腋のところに見えてる補助骨は腋と広背筋用 [https://t.co/CWQGFnI3PR](https://t.co/CWQGFnI3PR "https://t.co/CWQGFnI3PR")
+
+Retweets
+
+458
+
+Likes
+
+1882
+
+![](https://images-ext-2.discordapp.net/external/c6yzyOA0f13U0z4IbhJokVu4EU9aKW3UYdLGNXJpFBw/https/pbs.twimg.com/ext_tw_video_thumb/1054769267910955008/pu/img/vKM0iqsDa8jv7KCa.jpg)
+
+
+
+October 25, 2018
+
+![ ](https://cdn.discordapp.com/avatars/232643635563331590/07b811abae7826959526b25904bf3ae3.webp?size=128)
+
+## Cybuster10/25/2018
+
+[![](https://media.discordapp.net/attachments/486054132449542156/505094609928585226/sword_wrapping.jpg?width=400&height=249)](https://cdn.discordapp.com/attachments/486054132449542156/505094609928585226/sword_wrapping.jpg)
+
+![beans](https://cdn.discordapp.com/emojis/316368148246822913.png?v=1)
+
+1
+
+----------
+
+![ ](https://cdn.discordapp.com/avatars/232643635563331590/07b811abae7826959526b25904bf3ae3.webp?size=128)
+
+## Cybuster10/25/2018
+
+[https://www.artstation.com/artwork/XQmyR](https://www.artstation.com/artwork/XQmyR "https://www.artstation.com/artwork/XQmyR")
+
+ArtStation
+
+[Substance Hair Texture Tutorial, chang-gon shin](https://www.artstation.com/artwork/XQmyR)
+
+Substance Painter Hair Texture Tutorial Real Time Hair Texture Making Guide
+
+[![](https://images-ext-2.discordapp.net/external/RA8YLjD3rswwpZROHYXxHQZ_Ji1z6lwsBDbSo1qM2cY/%3F1519575054/https/cdnb.artstation.com/p/assets/covers/images/009/538/865/large/chang-gon-shin-screenshot015.jpg?width=300&height=300)](https://cdnb.artstation.com/p/assets/covers/images/009/538/865/large/chang-gon-shin-screenshot015.jpg?1519575054)
+
+![beans](https://cdn.discordapp.com/emojis/316368148246822913.png?v=1)
+
+2
+
+turn on CC on youtube video for English
+
+----------
+
+October 26, 2018
+
+![ ](https://cdn.discordapp.com/avatars/165014944482459648/768a0d2bb6c7d10461d6b778fb0fb1b3.webp?size=128)
+
+## NB-DanTE10/26/2018
+
+[https://www.youtube.com/watch?v=n28IZ_BcxUA&list=TLGGifBBbPOdPNcyNjEwMjAxOA](https://www.youtube.com/watch?v=n28IZ_BcxUA&list=TLGGifBBbPOdPNcyNjEwMjAxOA "https://www.youtube.com/watch?v=n28IZ_BcxUA&list=TLGGifBBbPOdPNcyNjEwMjAxOA")
+
+[YouTube](https://www.youtube.com/)
+
+[Maya Learning Channel](https://www.youtube.com/user/MayaHowTos)
+
+[Quick Tip: Correcting viewport shading issues](https://www.youtube.com/watch?v=n28IZ_BcxUA&list=TLGGifBBbPOdPNcyNjEwMjAxOA)
+
+![](https://images-ext-1.discordapp.net/external/bwi6RQhkyz5hKLE1upHB6UHBe1Xl2HFCu4DoS_kKb64/https/i.ytimg.com/vi/n28IZ_BcxUA/maxresdefault.jpg)
+
+----------
+
+![ ](https://cdn.discordapp.com/avatars/156955439790161921/b1906fc1364d40dd59629d06fa0ff1cd.webp?size=128)
+
+## Esprite10/26/2018
+
+[https://twitter.com/oyamaryu3333333/status/1055985948188528640](https://twitter.com/oyamaryu3333333/status/1055985948188528640 "https://twitter.com/oyamaryu3333333/status/1055985948188528640") so satisfying
+
+![](https://images-ext-2.discordapp.net/external/1rqeD6JR7feg52T_TRcplpjs7nDccL5YBNnYpRTDhpM/https/pbs.twimg.com/profile_images/840081574251061249/vgudYqQF_bigger.jpg)[大山竜 (@oyamaryu3333333)](https://twitter.com/oyamaryu3333333)
+
+鱗の造形 [https://t.co/r63X72ZKzl](https://t.co/r63X72ZKzl "https://t.co/r63X72ZKzl")
+
+Retweets
+
+1949
+
+Likes
+
+6303
+
+![](https://images-ext-2.discordapp.net/external/2U5gxhf9m83DvIolBXgQqDKLNiniNdHQMiba2-J0_g0/https/pbs.twimg.com/ext_tw_video_thumb/1055984647073611776/pu/img/Yet-0WSHWBKVvuB-.jpg)
+
+![](https://images-ext-1.discordapp.net/external/bXJWV2Y_F3XSra_kEqIYXAAsI3m1meckfLhYuWzxIfI/https/abs.twimg.com/icons/apple-touch-icon-192x192.png)Twitter
+
+----------
+
+October 27, 2018
+
+![ ](https://cdn.discordapp.com/avatars/156955439790161921/b1906fc1364d40dd59629d06fa0ff1cd.webp?size=128)
+
+## Esprite10/27/2018
+
+[https://www.artstation.com/artwork/8llWOO](https://www.artstation.com/artwork/8llWOO "https://www.artstation.com/artwork/8llWOO")
+
+ArtStation
+
+[ART tips frpm TBchoi :):) , TB Choi](https://www.artstation.com/artwork/8llWOO)
+
+https://www.twitch.tv/tbchoi
+
+[![](https://images-ext-2.discordapp.net/external/wzfaVVkyEXjQZiXGCskRQayA5VozFo-0fhzgp9i7JpU/%3F1539689537/https/cdna.artstation.com/p/assets/images/images/013/456/204/large/tb-choi-dfhfhfhg.jpg?width=400&height=255)](https://cdna.artstation.com/p/assets/images/images/013/456/204/large/tb-choi-dfhfhfhg.jpg?1539689537)
+
+----------
+
+October 29, 2018
+
+![ ](https://cdn.discordapp.com/avatars/96845961195687936/d1920bc120531d5795dcccd3c7b371a0.webp?size=128)
+
+## Floreum10/29/2018
+
+[https://twitter.com/sakuramochiJP/status/1056948104291733508](https://twitter.com/sakuramochiJP/status/1056948104291733508 "https://twitter.com/sakuramochiJP/status/1056948104291733508")
+
+![](https://images-ext-2.discordapp.net/external/iSGE4LhvWuuyJDds9L5kWmHic5Qgeh3kIW5SBQhGQoo/https/pbs.twimg.com/profile_images/497354088716050432/uJr-X3id_bigger.png)[さくらもち (@sakuramochiJP)](https://twitter.com/sakuramochiJP)
+
+肩周りと股関節、補助骨と中間ウェイト盛り沢山。こだわるとキリがないのでこの辺で。肩の後ろのメッシュが汚いのでちょっと直そう…。あとは肘と膝と首でひとまず終了 [https://t.co/t8BiANfjDX](https://t.co/t8BiANfjDX "https://t.co/t8BiANfjDX")
+
+Retweets
+
+1202
+
+Likes
+
+4381
+
+![](https://images-ext-1.discordapp.net/external/t0Ow_zd_UHGMWUOTDIVgE7quY4DTi0xV6iYpb_Tt2fU/https/pbs.twimg.com/ext_tw_video_thumb/1056947961995776000/pu/img/OETdFEZMEz6uN5iv.jpg)
+
+![](https://images-ext-1.discordapp.net/external/bXJWV2Y_F3XSra_kEqIYXAAsI3m1meckfLhYuWzxIfI/https/abs.twimg.com/icons/apple-touch-icon-192x192.png)Twitter
+
+![beans](https://cdn.discordapp.com/emojis/316368148246822913.png?v=1)
+
+2
+
+this dude is crazy, doesn't use normals [https://twitter.com/sakuramochiJP/status/1047945095779995648](https://twitter.com/sakuramochiJP/status/1047945095779995648 "https://twitter.com/sakuramochiJP/status/1047945095779995648")
+
+![](https://images-ext-2.discordapp.net/external/iSGE4LhvWuuyJDds9L5kWmHic5Qgeh3kIW5SBQhGQoo/https/pbs.twimg.com/profile_images/497354088716050432/uJr-X3id_bigger.png)[さくらもち (@sakuramochiJP)](https://twitter.com/sakuramochiJP)
+
+脚筋強化週間
+
+Retweets
+
+326
+
+Likes
+
+1802
+
+[![](https://images-ext-2.discordapp.net/external/jJeeUS2hbIKXKQJEQb8FaIaSrnb9UXqMeEjzHzu3hiE/https/pbs.twimg.com/media/DosLwnbVsAAGBLr.png%3Alarge?width=400&height=208)](https://pbs.twimg.com/media/DosLwnbVsAAGBLr.png:large)
+
+![](https://images-ext-1.discordapp.net/external/bXJWV2Y_F3XSra_kEqIYXAAsI3m1meckfLhYuWzxIfI/https/abs.twimg.com/icons/apple-touch-icon-192x192.png)Twitter
+
+
+----------
+
+![ ](https://cdn.discordapp.com/avatars/121975659970035712/3268fb1032f8e4cd0ff8755e6f65a48e.webp?size=128)
+
+## gibbon300010/29/2018
+
+yeah, total beast
+
+----------
+
+October 30, 2018
+
+![ ](https://cdn.discordapp.com/avatars/96845961195687936/d1920bc120531d5795dcccd3c7b371a0.webp?size=128)
+
+## Floreum10/30/2018
+
+How about some lady leg muscles in movement? [https://gfycat.com/AcademicOrdinaryHornet](https://gfycat.com/AcademicOrdinaryHornet "https://gfycat.com/AcademicOrdinaryHornet")
+
+
+
+----------
+
+October 31, 2018
+
+![ ](https://cdn.discordapp.com/avatars/104366408367878144/d12fa2bfdbf1aac5de4eab3ad6b4bc4d.webp?size=128)
+
+## Jackson Kendra10/31/2018
+
+[https://twitter.com/mignon/status/1031211189152272384](https://twitter.com/mignon/status/1031211189152272384 "https://twitter.com/mignon/status/1031211189152272384")
+
+![](https://images-ext-2.discordapp.net/external/0f3p_Jgx42TenKEeH9dQm87hGMODbjCLOS3gwpS1hlY/https/pbs.twimg.com/profile_images/1017810510887059456/6OunofYM_bigger.jpg)[mignon/ミニョン@C94新刊委託中 (@mignon)](https://twitter.com/mignon)
+
+#これが私の代表作 新しくフォロワーさんが増えたっぽいのはこのあたり （メイキングのは枚数制限上1枚目だけのせてます）
+
+Retweets
+
+1404
+
+Likes
+
+5936
+
+[![](https://images-ext-1.discordapp.net/external/0dK5UtBYdZsxSLb-L_mtgFtr_s9O49whoTbTv-2B78c/https/pbs.twimg.com/media/Dk-W9bPU4AALWjj.jpg%3Alarge?width=213&height=300)](https://pbs.twimg.com/media/Dk-W9bPU4AALWjj.jpg:large)
+
+![](https://images-ext-1.discordapp.net/external/bXJWV2Y_F3XSra_kEqIYXAAsI3m1meckfLhYuWzxIfI/https/abs.twimg.com/icons/apple-touch-icon-192x192.png)Twitter
+
+----------
+
+November 6, 2018
+
+![ ](https://cdn.discordapp.com/avatars/165014944482459648/768a0d2bb6c7d10461d6b778fb0fb1b3.webp?size=128)
+
+## NB-DanTE11/06/2018
+
+[https://www.artstation.com/artwork/baKmvv](https://www.artstation.com/artwork/baKmvv "https://www.artstation.com/artwork/baKmvv")
+
+ArtStation
+
+[Project Eri - Marmoset Breakdown, Vadim Sorici](https://www.artstation.com/artwork/baKmvv)
+
+Hello everyone, I was very fortunate to write an article for Marmoset about Project Eri. This is a tutorial/breakdown that focuses on creation of Eyes, Peach Fuzz, and Hair. I've also shared Peach Fuzz preset that I use, and Eye Template for everyone to use. For a better read...
+
+[![](https://images-ext-1.discordapp.net/external/ghlNi1ETAIdsOqRImD4c_TiF70yEkqNFFzexix5Ipdw/%3F1541530115/https/cdna.artstation.com/p/assets/covers/images/013/889/332/large/vadim-sorici-7.jpg?width=400&height=225)](https://cdna.artstation.com/p/assets/covers/images/013/889/332/large/vadim-sorici-7.jpg?1541530115)
+
+----------
+
+![ ](https://cdn.discordapp.com/avatars/189707464176828417/edce442a95b54f2e6da12a9625009ab2.webp?size=128)
+
+## Zerraze11/06/2018
+
+[https://twitter.com/EightyLevel/status/1059821883883962374](https://twitter.com/EightyLevel/status/1059821883883962374 "https://twitter.com/EightyLevel/status/1059821883883962374")
+
+![](https://images-ext-1.discordapp.net/external/vKcUyivQdfOEBl0XDg-GcHCz0hMbMdzBqlWT1a3mZTU/https/pbs.twimg.com/profile_images/897059306868285442/MTrTuwvT_bigger.jpg)[80 LEVEL (@EightyLevel)](https://twitter.com/EightyLevel)
+
+Alessandro Manzani did a breakdown of his recent character Demon Betrayer and talked about concepts, #sculpting, #UVs and more. [https://t.co/PwqF9oI6SR](https://t.co/PwqF9oI6SR "https://t.co/PwqF9oI6SR") #gamedev #indiedev #3dart #gamedesign #Maya #ZBrush #3DCoat #Toolbag @AdskMaya @marmosetco @3DCoatOfficial @pixologic ...
+
+Likes
+
+159
+
+![](https://images-ext-1.discordapp.net/external/e7ycW_TiCmqCeo5GNpLRy-WEg6-6vxNhCozUmUM7GAM/https/pbs.twimg.com/ext_tw_video_thumb/1059821811632951296/pu/img/8MRMR3fiqIENHLET.jpg)
+
+![](https://images-ext-1.discordapp.net/external/bXJWV2Y_F3XSra_kEqIYXAAsI3m1meckfLhYuWzxIfI/https/abs.twimg.com/icons/apple-touch-icon-192x192.png)Twitter
+
+----------
+
+November 7, 2018
+
+![ ](https://cdn.discordapp.com/avatars/317070168469536778/0c2832a9ba30af57845e4a3d8bf23dd8.webp?size=128)
+
+## JP McCarthy11/07/2018
+
+This is nicely put together video that offers an slightly different take of introducing ZBrush to a beginner. Pablo Munoz seems like such a nice fella. [https://vimeo.com/298318676](https://vimeo.com/298318676 "https://vimeo.com/298318676") (I really wish Vimeo vids would embed properly!)(edited)
+
+----------
+
+November 8, 2018
+
+![ ](https://cdn.discordapp.com/avatars/189707464176828417/edce442a95b54f2e6da12a9625009ab2.webp?size=128)
+
+## Zerraze11/08/2018
+
+[https://twitter.com/CGdrawing/status/1060479174350000128](https://twitter.com/CGdrawing/status/1060479174350000128 "https://twitter.com/CGdrawing/status/1060479174350000128")
+
+![](https://images-ext-2.discordapp.net/external/mPvVFAkinfHopU7Ja_JsAvnKZnaTimJBgKMGvZL5sjY/https/pbs.twimg.com/profile_images/1034800642273947649/XXF7I0BN_bigger.jpg)[Aesthetic Sharer ZHR (@CGdrawing)](https://twitter.com/CGdrawing)
+
+Ball or bird
+
+Retweets
+
+1855
+
+Likes
+
+4392
+
+[![](https://images-ext-2.discordapp.net/external/e6LlkSeInd-U2swJOfk75zJ7GKa7atcXYrInsNmtWd8/https/pbs.twimg.com/media/DreT8kvV4AAkSLo.jpg%3Alarge?width=400&height=300)](https://pbs.twimg.com/media/DreT8kvV4AAkSLo.jpg:large)
+
+![](https://images-ext-1.discordapp.net/external/bXJWV2Y_F3XSra_kEqIYXAAsI3m1meckfLhYuWzxIfI/https/abs.twimg.com/icons/apple-touch-icon-192x192.png)Twitter
+
+^
+
+[![](https://media.discordapp.net/attachments/486054132449542156/510136036270014480/DreT-WzVsAA3wI0.png?width=261&height=300)](https://cdn.discordapp.com/attachments/486054132449542156/510136036270014480/DreT-WzVsAA3wI0.png)
+
+----------
+
+November 11, 2018
+
+![ ](https://cdn.discordapp.com/avatars/96845961195687936/d1920bc120531d5795dcccd3c7b371a0.webp?size=128)
+
+## Floreum11/11/2018
+
+for them people who want to rig some boobies [https://cdn.discordapp.com/attachments/373319865005506580/510842885017698343/unknown.png](https://cdn.discordapp.com/attachments/373319865005506580/510842885017698343/unknown.png "https://cdn.discordapp.com/attachments/373319865005506580/510842885017698343/unknown.png")
+
+[![](https://images-ext-2.discordapp.net/external/6IGqQbsi17R876D8F_3OJ5IOZ_XRAJKi9A5DkE9c7JY/https/cdn.discordapp.com/attachments/373319865005506580/510842885017698343/unknown.png?width=400&height=267)](https://cdn.discordapp.com/attachments/373319865005506580/510842885017698343/unknown.png)
+
+
+
+
+
+
+----------
+
+![ ](https://cdn.discordapp.com/avatars/162348923682422794/bc5977193cc42646e0bfe04a90096ffb.webp?size=128)
+
+## Someone11/11/2018
+
+lol
+
+flop
+
+----------
+
+![ ](https://cdn.discordapp.com/avatars/317070168469536778/0c2832a9ba30af57845e4a3d8bf23dd8.webp?size=128)
+
+## JP McCarthy11/11/2018
+
+On a related note....
+
+[![](https://media.discordapp.net/attachments/486054132449542156/511335056132800522/download_1.jpg?width=195&height=300)](https://cdn.discordapp.com/attachments/486054132449542156/511335056132800522/download_1.jpg)
+
+----------
+
+![ ](https://cdn.discordapp.com/avatars/162348923682422794/bc5977193cc42646e0bfe04a90096ffb.webp?size=128)
+
+## Someone11/11/2018
+
+dipples
+
+----------
+
+![ ](https://cdn.discordapp.com/avatars/96845961195687936/d1920bc120531d5795dcccd3c7b371a0.webp?size=128)
+
+## Floreum11/11/2018
+
+'O' is my favorite kind(edited)
+
+----------
+
+November 13, 2018
+
+![ ](https://cdn.discordapp.com/avatars/165014944482459648/768a0d2bb6c7d10461d6b778fb0fb1b3.webp?size=128)
+
+## NB-DanTE11/13/2018
+
+[https://www.youtube.com/watch?v=Hx3zppPYNB0](https://www.youtube.com/watch?v=Hx3zppPYNB0 "https://www.youtube.com/watch?v=Hx3zppPYNB0")
+
+[YouTube](https://www.youtube.com/)
+
+[LEE EVAN](https://www.youtube.com/user/evan082)
+
+[Episode 40-Golden Sleeveless Sexy Mini Dress](https://www.youtube.com/watch?v=Hx3zppPYNB0)
+
+![](https://images-ext-2.discordapp.net/external/MPK3lVIwHr8_qphIBtPHfM_EUHsJk_0gkVgXLJJLfPQ/https/i.ytimg.com/vi/Hx3zppPYNB0/maxresdefault.jpg)
+
+----------
+
+November 15, 2018
+
+![ ](https://cdn.discordapp.com/avatars/96845961195687936/d1920bc120531d5795dcccd3c7b371a0.webp?size=128)
+
+## Floreum11/15/2018
+
+[https://youtu.be/dSUqG3DpEsw](https://youtu.be/dSUqG3DpEsw "https://youtu.be/dSUqG3DpEsw")
+
+[YouTube](https://www.youtube.com/)
+
+[REIQ](https://www.youtube.com/user/reiqws)
+
+[How to DRAW SEXY FEMALE LEGS! Structure and Flow! by REIQ](https://youtu.be/dSUqG3DpEsw)
+
+![](https://images-ext-2.discordapp.net/external/PSASb6mVVC9X1XFLPMWwPqJqWIoMgBf-YlBEXcD6Cu0/https/i.ytimg.com/vi/dSUqG3DpEsw/maxresdefault.jpg)
+
+----------
+
+November 16, 2018
+
+![ ](https://cdn.discordapp.com/avatars/101284422631854080/03398c8265d16e3ee826e7f4ed41050c.webp?size=128)
+
+## TheDeterminedArtist(Gaku)11/16/2018
+
+Level your Art, Pokemon style! lol [https://youtu.be/4HjZVWCS11w](https://youtu.be/4HjZVWCS11w "https://youtu.be/4HjZVWCS11w")
+
+[YouTube](https://www.youtube.com/)
+
+[FlippedNormals](https://www.youtube.com/user/FlippedNormalsTuts)
+
+[Taking Your Art to the Next Level](https://youtu.be/4HjZVWCS11w)
+
+![](https://images-ext-2.discordapp.net/external/TpIQ_2C_XrcjAkCMq-KaPDHtq47MX4ju0CyFPlKNATQ/https/i.ytimg.com/vi/4HjZVWCS11w/maxresdefault.jpg)
+
+----------
+
+![ ](https://cdn.discordapp.com/avatars/101284422631854080/03398c8265d16e3ee826e7f4ed41050c.webp?size=128)
+
+## TheDeterminedArtist(Gaku)11/16/2018
+
+[http://cbr.sh/zidywp](http://cbr.sh/zidywp "http://cbr.sh/zidywp")
+
+Cubebrush
+
+[Nude Figure Sculpting Guide on Cubebrush.co](http://cbr.sh/zidywp)
+
+This is the Nude Figure Sculpting Guide you’ve been looking for!! (Probably) - ✅ 5+ hours of in-depth content - ✅ Great for artists of any level - 🎁 Bonus -...
+
+[![](https://images-ext-1.discordapp.net/external/A0103m2I3WLK69qvSXJdQ92smwGquUK1z4EiKsFQ0DM/https/d27nqrvkk22y65.cloudfront.net/cover/image/46096/big_0d5eeb4ff2.jpg?width=400&height=225)](https://d27nqrvkk22y65.cloudfront.net/cover/image/46096/big_0d5eeb4ff2.jpg)
+
+----------
+
+November 18, 2018
+
+![ ](https://cdn.discordapp.com/avatars/178483930830340096/9f32a1cd38f457c7479774bbd57cc281.webp?size=128)
+
+## PalmaTheLlama11/18/2018
+
+[https://www.youtube.com/watch?v=5545-mcOBVY](https://www.youtube.com/watch?v=5545-mcOBVY "https://www.youtube.com/watch?v=5545-mcOBVY")
+
+[YouTube](https://www.youtube.com/)
+
+[CLAYMAKER](https://www.youtube.com/channel/UCf6WRi-aMkhO5zsW1SuSHsw)
+
+[Sculpting maquette in clay FULL VIDEO](https://www.youtube.com/watch?v=5545-mcOBVY)
+
+![](https://images-ext-1.discordapp.net/external/Z_MmGwKSqPeJOU3vbtKGjE7Usv4YIvCiZae5nIx4_js/https/i.ytimg.com/vi/5545-mcOBVY/hqdefault.jpg)
+
+![beans](https://cdn.discordapp.com/emojis/316368148246822913.png?v=1)
+
+2
+
+----------
+
+November 28, 2018
+
+![ ](https://cdn.discordapp.com/avatars/102766144615616512/f094ddc92c57fce27fe6f7a2d78dd9d6.webp?size=128)
+
+## doomflex11/28/2018
+
+[https://twitter.com/hanari0716/status/1067722629203681287](https://twitter.com/hanari0716/status/1067722629203681287 "https://twitter.com/hanari0716/status/1067722629203681287")
+
+![](https://images-ext-1.discordapp.net/external/---9cZXU-_HUnJj5QbQVlAYLTSGeo-zeMQx-BhYNQ3s/https/pbs.twimg.com/profile_images/930123406283902976/EiGnWVEN_bigger.jpg)[吉村拓也 (@hanari0716)](https://twitter.com/hanari0716)
+
+【スカートの描き方】が 上達するための 「ダメなこと」と「良いこと⭕️」
+
+Retweets
+
+21279
+
+Likes
+
+92597
+
+[![](https://images-ext-1.discordapp.net/external/gsyBTVRWMOQIsRJMB2lbxi1EZ8-72QFKp0Dk9MXN20k/https/pbs.twimg.com/media/DtFQELJUUAA67r5.jpg%3Alarge?width=188&height=301)](https://pbs.twimg.com/media/DtFQELJUUAA67r5.jpg:large)
+
+![](https://images-ext-1.discordapp.net/external/bXJWV2Y_F3XSra_kEqIYXAAsI3m1meckfLhYuWzxIfI/https/abs.twimg.com/icons/apple-touch-icon-192x192.png)Twitter
+
+[https://pbs.twimg.com/media/DtFQELLVAAAnjr0.jpg](https://pbs.twimg.com/media/DtFQELLVAAAnjr0.jpg "https://pbs.twimg.com/media/DtFQELLVAAAnjr0.jpg")
+
+[![](https://images-ext-1.discordapp.net/external/5-iKigkGDh3taVpNaFwQ42SCm9kj10Z_-O6mW2mA_ZI/https/pbs.twimg.com/media/DtFQELLVAAAnjr0.jpg?width=176&height=300)](https://pbs.twimg.com/media/DtFQELLVAAAnjr0.jpg)
+
+----------
+
+November 29, 2018
+
+![ ](https://cdn.discordapp.com/avatars/102766144615616512/f094ddc92c57fce27fe6f7a2d78dd9d6.webp?size=128)
+
+## doomflex11/29/2018
+
+[https://www.slideshare.net/ASW_Yokohama/guilty-gear-xrdtips-124324946](https://www.slideshare.net/ASW_Yokohama/guilty-gear-xrdtips-124324946 "https://www.slideshare.net/ASW_Yokohama/guilty-gear-xrdtips-124324946")
+
+[SlideShare](https://www.slideshare.net/)
+
+[ARC SYSTEM WORKS](https://www.slideshare.net/ASW_Yokohama)
+
+[GUILTY GEAR Xrd開発スタッフが送るアニメ調キャラモ...](https://www.slideshare.net/ASW_Yokohama/guilty-gear-xrdtips-124324946)
+
+[![](https://images-ext-2.discordapp.net/external/LDoVC73iFCwyIWHNE6NMDkdSb86mddUMCvImKCXha7Q/%3Fcb%3D1543457397/https/cdn.slidesharecdn.com/ss_thumbnails/daikinseminarxrd2018public2-181129014905-thumbnail-4.jpg?width=80&height=45)](https://www.slideshare.net/ASW_Yokohama/guilty-gear-xrdtips-124324946)
+
+----------
+
+December 3, 2018
+
+![ ](https://cdn.discordapp.com/avatars/196353759838863360/ae66f5a4ccd509ac29f7626bf0c90a17.webp?size=128)
+
+## Zukan12/03/2018
+
+[https://www.youtube.com/watch?v=SzrLOvnkS8c&feature=youtu.be](https://www.youtube.com/watch?v=SzrLOvnkS8c&feature=youtu.be "https://www.youtube.com/watch?v=SzrLOvnkS8c&feature=youtu.be")
+
+[YouTube](https://www.youtube.com/)
+
+[Michael Pavlovich](https://www.youtube.com/user/Pavlovich2005)
+
+[ZBrush for Ideation Video Series](https://www.youtube.com/watch?v=SzrLOvnkS8c&feature=youtu.be)
+
+![](https://images-ext-1.discordapp.net/external/v100ze9KFRfE1mwj0V8yxs7CY42U_8q-K7SKVPz42UA/https/i.ytimg.com/vi/SzrLOvnkS8c/maxresdefault.jpg)
+
+
+
+1
+
+----------
+
+December 28, 2018
+
+![ ](https://cdn.discordapp.com/avatars/101284422631854080/03398c8265d16e3ee826e7f4ed41050c.webp?size=128)
+
+## TheDeterminedArtist(Gaku)12/28/2018
+
+[http://cbr.sh/4crbek](http://cbr.sh/4crbek "http://cbr.sh/4crbek")
+
+Cubebrush
+
+[Human Male Skeleton on Cubebrush.co](http://cbr.sh/4crbek)
+
+This is my completed sculpt of the human skeleton. It was created over the course of a few months using reference ranging from general measurements to scan d...
+
+[![](https://images-ext-2.discordapp.net/external/zfFpyjLAga7j4uIDM5wkdxyMVmtD3OPVb80rCr9tPFA/https/d27nqrvkk22y65.cloudfront.net/cover/image/16599/big_a33bb937af.png?width=400&height=267)](https://d27nqrvkk22y65.cloudfront.net/cover/image/16599/big_a33bb937af.png)
+
+----------
+
+January 9, 2019
+
+![ ](https://cdn.discordapp.com/avatars/165014944482459648/768a0d2bb6c7d10461d6b778fb0fb1b3.webp?size=128)
+
+## NB-DanTE01/09/2019
+
+[![](https://media.discordapp.net/attachments/486054132449542156/532584488295858186/boobs_ref.jpg?width=110&height=301)](https://cdn.discordapp.com/attachments/486054132449542156/532584488295858186/boobs_ref.jpg)
+
+----------
+
+January 18, 2019
+
+![ ](https://cdn.discordapp.com/avatars/165014944482459648/768a0d2bb6c7d10461d6b778fb0fb1b3.webp?size=128)
+
+## NB-DanTE01/18/2019
+
+[https://www.youtube.com/watch?v=a_q-Hae_rQA](https://www.youtube.com/watch?v=a_q-Hae_rQA "https://www.youtube.com/watch?v=a_q-Hae_rQA")
+
+[YouTube](https://www.youtube.com/)
+
+[Danny Mac 3D](https://www.youtube.com/user/djmccabie)
+
+[ItsLopez Zbrush Time-lapse](https://www.youtube.com/watch?v=a_q-Hae_rQA)
+
+![](https://images-ext-1.discordapp.net/external/U0fNCc_RCn-BYV_OW3ockQpaM65iE6oyg8dnUvUamfk/https/i.ytimg.com/vi/a_q-Hae_rQA/maxresdefault.jpg)
+
+----------
+
+February 24, 2019
+
+![ ](https://cdn.discordapp.com/avatars/156955439790161921/b1906fc1364d40dd59629d06fa0ff1cd.webp?size=128)
+
+## Esprite02/24/2019
+
+[https://twitter.com/sakaki_kaoru/status/1099295575168581634](https://twitter.com/sakaki_kaoru/status/1099295575168581634 "https://twitter.com/sakaki_kaoru/status/1099295575168581634")
+
+![](https://images-ext-1.discordapp.net/external/uDfPL6yPeDgLTpP1P4IKbSByDG17ty-r739X5WnZxt8/https/pbs.twimg.com/profile_images/857582858851958784/C4ZYy2tc_bigger.jpg)[榊馨 (@sakaki_kaoru)](https://twitter.com/sakaki_kaoru)
+
+ワンフェスでPixologicブースでお話した際に使用したスライドを公開しました。　【WF2019w】キャラクターフィギュアモデリングTips ～早く綺麗に作るコツとテクニック～ #wf2019w #zbrush [https://t.co/2hyBaouIUT](https://t.co/2hyBaouIUT "https://t.co/2hyBaouIUT")
+
+Retweets
+
+148
+
+Likes
+
+350
+
+![](https://images-ext-1.discordapp.net/external/bXJWV2Y_F3XSra_kEqIYXAAsI3m1meckfLhYuWzxIfI/https/abs.twimg.com/icons/apple-touch-icon-192x192.png)Twitter
+
+
+
+1
+
+[https://www.slideshare.net/KaoruSakaki/wf2019wtips](https://www.slideshare.net/KaoruSakaki/wf2019wtips "https://www.slideshare.net/KaoruSakaki/wf2019wtips") in japanese but shows some different smoothing brush techniques
+
+[SlideShare](https://www.slideshare.net/)
+
+[KaoruSakaki](https://www.slideshare.net/KaoruSakaki)
+
+[【WF2019w】キャラクターフィギュアモデリングTips ...](https://www.slideshare.net/KaoruSakaki/wf2019wtips)
+
+[![](https://images-ext-2.discordapp.net/external/DiqrraOcdHs6qa0Db0XMq10F_KB1YZzkTjNygM_UwCc/%3Fcb%3D1550927313/https/cdn.slidesharecdn.com/ss_thumbnails/wf2019wpixologic-190223130325-thumbnail-4.jpg?width=80&height=60)](https://www.slideshare.net/KaoruSakaki/wf2019wtips)
+
+----------
+
+February 28, 2019
 
 ![ ](https://cdn.discordapp.com/avatars/101284422631854080/03398c8265d16e3ee826e7f4ed41050c.webp?size=128)
 
@@ -48,6 +1371,7 @@ If you’re just starting out on the path to your goal of becoming a manga artis
 [![](https://images-ext-1.discordapp.net/external/xHu7mihoFAufvFRy9YX0pL0RgMJCMBYk6Wf-E_ADG5U/%3Fw%3D580%26h%3D305%26crop%3D1/https/sociorocketnewsen.files.wordpress.com/2015/09/mm-15.png?width=400&height=211)](https://sociorocketnewsen.files.wordpress.com/2015/09/mm-15.png?w=580&h=305&crop=1)
 
 
+2
 
 [https://80.lv/articles/001agt-crafting-a-fantastic-floating-island-in-ue4/?fbclid=IwAR3GwO88KGjnb-v7ocj3etYZuwlPl58jyQxYelAvbqWPrMtvWQd3Cnb4Fak](https://80.lv/articles/001agt-crafting-a-fantastic-floating-island-in-ue4/?fbclid=IwAR3GwO88KGjnb-v7ocj3etYZuwlPl58jyQxYelAvbqWPrMtvWQd3Cnb4Fak "https://80.lv/articles/001agt-crafting-a-fantastic-floating-island-in-ue4/?fbclid=IwAR3GwO88KGjnb-v7ocj3etYZuwlPl58jyQxYelAvbqWPrMtvWQd3Cnb4Fak")
 
@@ -158,6 +1482,7 @@ High resolution, premium, affordable reference for creators--artists, designers,
 ![](https://images-ext-1.discordapp.net/external/bXJWV2Y_F3XSra_kEqIYXAAsI3m1meckfLhYuWzxIfI/https/abs.twimg.com/icons/apple-touch-icon-192x192.png)Twitter
 
 
+1
 
 ----------
 
@@ -281,7 +1606,7 @@ Anyone got good tip on how to make building a look cyberpunkish
 
 ## tmarshall3d04/21/2019
 
- Try making it look like an old building, run down and broken and fill in broken parts with cyberpunk parts?
+Try making it look like an old building, run down and broken and fill in broken parts with cyberpunk parts?
 
 ----------
 
@@ -289,8 +1614,6 @@ Anyone got good tip on how to make building a look cyberpunkish
 
 ## Chicken nuggets with BBQ sauce04/21/2019
 
-
-----------
 
 ![ ](https://cdn.discordapp.com/avatars/217383502595751952/1418d7bc1450174421937cead54f7a68.webp?size=128)
 
@@ -598,8 +1921,6 @@ not that much different
 
 
 
-1
-
 sec I'll look through my china photos think there were a couple dogs in tehre
 
 ----------
@@ -616,8 +1937,7 @@ thanks homie
 
 ## Esprite04/29/2019
 
-looks like I didn't video the dogs, just the tiger and bear !
-
+looks like I didn't video the dogs, just the tiger and bear 
 they may have similar muscle groups though
 
 VID_20180719_194025.mp4
@@ -654,9 +1974,7 @@ A japanese sculptor start a youtube channel in english for sharing who to make a
 
 ![](https://images-ext-2.discordapp.net/external/4obHK68Stv5DAaadkRj_-LA61nRS8uSkNR9HSXgXQ9s/https/i.ytimg.com/vi/PjdePL8SGQE/hqdefault.jpg)
 
-![beans](https://cdn.discordapp.com/emojis/316368148246822913.png?v=1)
 
-2
 
 ----------
 
@@ -770,8 +2088,6 @@ You choose a species rotate to an angle and it generates images from the web for
 
 
 
-2
-
 [![](https://media.discordapp.net/attachments/486054132449542156/576322543678652417/unknown.png?width=400&height=249)](https://cdn.discordapp.com/attachments/486054132449542156/576322543678652417/unknown.png)
 
 ----------
@@ -833,8 +2149,6 @@ Form of The Head and Neck. Artists are visual thinkers! This is human anatomy fo
 [![](https://images-ext-2.discordapp.net/external/DSrZ3fj4r24peEhhJM-XuZ0otodQZxlnI-vAK5f1gA4/%3Fixlib%3Drb-2.0.0%26crop%3Dfaces%26w%3D1552%26h%3D873%26fit%3Dcrop%26v%3D1554821051%26auto%3Dformat%26frame%3D1%26q%3D92%26s%3Ddcd02c0f6aefef1f3f815f32fe4262cf/https/ksr-ugc.imgix.net/assets/024/710/852/dd0059345bc09a7c4db2bb9e9bca9c06_original.png?width=400&height=300)](https://ksr-ugc.imgix.net/assets/024/710/852/dd0059345bc09a7c4db2bb9e9bca9c06_original.png?ixlib=rb-2.0.0&crop=faces&w=1552&h=873&fit=crop&v=1554821051&auto=format&frame=1&q=92&s=dcd02c0f6aefef1f3f815f32fe4262cf)
 
 
-
-2
 
 ----------
 
@@ -924,7 +2238,7 @@ Short ZBrush tutorial how to shange toplogy Follow me via https://twitter.com/ao
 
 ![](https://images-ext-1.discordapp.net/external/7d2yHw_6qsiAuKFN4Pm4FjJu6bAzmDIVAcQ8SXOXp-w/https/pbs.twimg.com/profile_images/1105272494909341696/bQQpP9_t_bigger.png)[새삐𝐒𝐀𝐏𝐏𝐈 in propic (@tnadmszo)](https://twitter.com/tnadmszo)
 
-입술 튜토리얼입니다!! 스케치부터 완성까지 쭉 있어요~ 입술은 입안에서 돌아 나온 구조이므로 돌아 나오는 세로선을 잘 살려 그리면 편하게 그려진다는 것! 그리고 한번에 다 그리려 하지 않고 페이...
+입술 튜토리얼입니다 스케치부터 완성까지 쭉 있어요~ 입술은 입안에서 돌아 나온 구조이므로 돌아 나오는 세로선을 잘 살려 그리면 편하게 그려진다는 것! 그리고 한번에 다 그리려 하지 않고 페이...
 
 Retweets
 
@@ -1023,7 +2337,6 @@ In this Substance Painter tutorial, you’ll learn everything you need in order 
 ![ ](https://cdn.discordapp.com/avatars/579427064592203837/ef2b586ffe04d7456f920dbafdc6992b.webp?size=128)
 
 ## N2gothic05/22/2019
-
 
 
 ----------
@@ -1403,7 +2716,6 @@ Learn how Axis Animation and his director have created game cinematics for AAA g
 [![](https://images-ext-2.discordapp.net/external/QQ6yOlPxuBGsrrKSsFGCNGyDDaDd0d6T06GZ6Z_iiHE/https/dtsvkkjw40x57.cloudfront.net/1110xnull/images/programs/134717/horizontal/big_YiPhykmiRJaBk8IqEh5d_savafinal.jpg?width=80&height=46)](https://videos.iamag.co/programs/sava-zivkovic_-directing-game-trailer-fac979)
 
 
-
 2
 
 ----------
@@ -1446,8 +2758,6 @@ wow ~! check out this little guy ! fighting cricket.
 
 
 
-1
-
 ----------
 
 ![ ](https://cdn.discordapp.com/avatars/200785428855390211/f652e299c1c5c7fd91dde840d0f841a8.webp?size=128)
@@ -1456,9 +2766,6 @@ wow ~! check out this little guy ! fighting cricket.
 
 ![:PepeLook:](https://cdn.discordapp.com/emojis/486052715110334467.png?v=1) wtf
 
-
-
-1
 
 ----------
 
@@ -1747,9 +3054,6 @@ Heya guys, I made a little tutorial about my workflow of normal baking coz some 
 [![](https://images-ext-1.discordapp.net/external/es97PHkM1_eePyIx_-XYnUjuhh9df0wXcUuUBVZuWRo/%3F1565631851/https/cdnb.artstation.com/p/assets/covers/images/019/930/543/large/elijah-vasilenkof-preview.jpg?width=300&height=300)](https://cdnb.artstation.com/p/assets/covers/images/019/930/543/large/elijah-vasilenkof-preview.jpg?1565631851)
 
 
-
-1
-
 ----------
 
 August 16, 2019
@@ -1888,13 +3192,9 @@ Thas actually wats is really living in Haz's beard. Its green cause its under a 
 
 
 
-2
-
 LUL
 
 
-
-4
 
 ----------
 
@@ -1969,7 +3269,6 @@ Thxs
 ![ ](https://cdn.discordapp.com/avatars/309504824880267274/7c6f687dbe6b62a7647170be3574c1ce.webp?size=128)
 
 ## tmarshall3d08/23/2019
-
 
 
 ----------
@@ -2122,16 +3421,6 @@ Tig ol bitties
 
 ![ ](https://cdn.discordapp.com/avatars/579427064592203837/ef2b586ffe04d7456f920dbafdc6992b.webp?size=128)
 
-## N2gothic09/07/2019
-
-
-
-
-
-
-![omglewd](https://cdn.discordapp.com/emojis/391400037386682380.png?v=1)
-
-
 
 ----------
 
@@ -2250,43 +3539,3 @@ comparing the jawline to blairs
 but yeah I think they could of been more subtle with the makeup though
 
 [![](https://media.discordapp.net/attachments/486054132449542156/624441099959664650/unknown.png?width=400&height=253)](https://cdn.discordapp.com/attachments/486054132449542156/624441099959664650/unknown.png)
-
-----------
-
-September 20, 2019
-
-![ ](https://cdn.discordapp.com/avatars/271155831653924875/9621e394c13f3e2f6119171693528e25.webp?size=128)
-
-## Chicken nuggets with BBQ sauce09/20/2019
-
-Blair though
-
-----------
-
-![ ](https://cdn.discordapp.com/avatars/114815974217220098/3cdd915acfeee34ca017aa256b9ebe5e.webp?size=128)
-
-## Eynx09/20/2019
-
-blair is a good girl
-
-----------
-
-September 21, 2019
-
-![ ](https://cdn.discordapp.com/avatars/579427064592203837/ef2b586ffe04d7456f920dbafdc6992b.webp?size=128)
-
-## N2gothic09/21/2019
-
-![:RinsBanHammer:](https://cdn.discordapp.com/emojis/316368140751863808.png?v=1)
-
-----------
-
-October 7, 2019
-
-![ ](https://cdn.discordapp.com/avatars/156955439790161921/b1906fc1364d40dd59629d06fa0ff1cd.webp?size=128)
-
-## EspriteToday at 4:38 PM
-
-This room will be nuked ![:aAkagiFlame:](https://cdn.discordapp.com/emojis/495676421767954433.png?v=1) later today! You can find the archive at [http://ctrl.moe/blog/ihaztuts/](http://ctrl.moe/blog/ihaztuts/ "http://ctrl.moe/blog/ihaztuts/") pinned in #tech_arthub
-
-ctrl.moe
