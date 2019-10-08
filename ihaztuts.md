@@ -1,4 +1,5 @@
 
+
 # Welcome to the beginning of the  **#reference_and_tuts**  channel.
 
 ![ ](https://cdn.discordapp.com/avatars/159168346867236865/26b50ebfe477d618d0b22f49cffbe521.webp?size=128)
@@ -1529,9 +1530,6 @@ April 18, 2019
 
 ![](https://images-ext-2.discordapp.net/external/_T3B6WU1QKxMPMq_bQ75hDjino9OpWIunnZLyO1RirU/https/i.ytimg.com/vi/KqCOkvkSbRg/maxresdefault.jpg)
 
-![beans](https://cdn.discordapp.com/emojis/316368148246822913.png?v=1)
-
-3
 
 ----------
 
